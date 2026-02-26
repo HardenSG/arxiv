@@ -35,6 +35,10 @@ Things like:
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
+### OpenRouter API (Image Generation)
+- API Key: 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
+- Image Model: google/gemini-3.1-flash-image-preview
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
